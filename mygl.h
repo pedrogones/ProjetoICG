@@ -9,5 +9,6 @@ static void MyGlDraw(void);
 static void PutPixel(void);
 static void DrawLine(int *a, int *b, int *c, int *d);
 static void DrawTriangle(int a, int b, int c, int d, int e, int f);
+static void DrawTriangle2(int a, int b, int c, int d, int e, int f);
 
 #endif
